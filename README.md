@@ -22,4 +22,5 @@ A modern Android Dashboard App built using **Jetpack Compose**. This simple app 
 
 ## 📸 Screenshots
 
-<img width="376" height="826" alt="image" src="https://github.com/user-attachments/assets/036f9c4b-0279-4807-a246-6ea591d076a8" />
+<img width="376" height="826" alt="image" src="https://github.com/user-attachments/assets/781386e8-f705-4b62-a490-8095169c29a9" />
+
